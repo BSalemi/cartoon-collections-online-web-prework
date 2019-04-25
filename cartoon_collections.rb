@@ -22,7 +22,7 @@ def find_the_cheese(array)
     if cheese_types.include?(food)
       #array.find do |food|
       #food.cheese_types
-      return food 
+      return food
       end
   else
     return nil
