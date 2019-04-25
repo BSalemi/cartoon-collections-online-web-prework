@@ -24,6 +24,7 @@ def find_the_cheese(array)
       #food.cheese_types
       return food
       end
+    end
   else
     return nil
   end
